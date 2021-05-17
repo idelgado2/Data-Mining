@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9497d069-63c4-4902-a248-e68211af077e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dONzD5y3rcRWveW9NXNnDNs5uK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Background" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.task2train">
+    <configuration name="gn_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HW3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW4/gn_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HW3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../HW1" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../HW1/task1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HW3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW4/task1.py" />
+      <option name="PARAMETERS" value="7 $FileDir$/data/ub_sample_data.csv task1_ans" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task1HW3" type="PythonConfigurationType" factoryName="Python">
+      <module name="HW3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HW3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task1.py" />
+      <option name="PARAMETERS" value="$PROJECT_DIR$/data/train_review.json $PROJECT_DIR$/output/task1_ans" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HW3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW4/task2.py" />
+      <option name="PARAMETERS" value="7 $FileDir$/data/ub_sample_data.csv task2_ans_betweeness task2_ans_communities" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task2train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HW3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task2train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.task1HW3" />
+      <item itemvalue="Python.gn_test" />
+      <item itemvalue="Python.task1" />
+      <item itemvalue="Python.task2" />
+      <item itemvalue="Python.task1 (1)" />
+      <item itemvalue="Python.task2train" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.task2train" />
+        <item itemvalue="Python.task1 (1)" />
+        <item itemvalue="Python.gn_test" />
+        <item itemvalue="Python.task1" />
+        <item itemvalue="Python.task2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9497d069-63c4-4902-a248-e68211af077e" name="Default Changelist" comment="" />
+      <created>1592292439581</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592292439581</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="345" y="404" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602811613839">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state x="345" y="404" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1057@0.23.2560.1057" timestamp="1602811613839" />
+    <state x="916" y="359" key="#xdebugger.evaluate" timestamp="1602812563662">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state x="916" y="359" key="#xdebugger.evaluate/0.23.2560.1057@0.23.2560.1057" timestamp="1602812563662" />
+    <state width="2001" height="466" key="DebuggerActiveHint" timestamp="1602812592290">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="2001" height="466" key="DebuggerActiveHint/0.23.2560.1057@0.23.2560.1057" timestamp="1602812592290" />
+    <state width="864" height="480" key="GridCell.Tab.0.bottom" timestamp="1602939527562">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="864" height="480" key="GridCell.Tab.0.bottom/0.23.2560.1057@0.23.2560.1057" timestamp="1602939527562" />
+    <state width="864" height="480" key="GridCell.Tab.0.center" timestamp="1602939527561">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="864" height="480" key="GridCell.Tab.0.center/0.23.2560.1057@0.23.2560.1057" timestamp="1602939527561" />
+    <state width="864" height="480" key="GridCell.Tab.0.left" timestamp="1602939527561">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="864" height="480" key="GridCell.Tab.0.left/0.23.2560.1057@0.23.2560.1057" timestamp="1602939527561" />
+    <state width="864" height="480" key="GridCell.Tab.0.right" timestamp="1602939527561">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="864" height="480" key="GridCell.Tab.0.right/0.23.2560.1057@0.23.2560.1057" timestamp="1602939527561" />
+    <state width="864" height="480" key="GridCell.Tab.1.bottom" timestamp="1602939527563">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="864" height="480" key="GridCell.Tab.1.bottom/0.23.2560.1057@0.23.2560.1057" timestamp="1602939527563" />
+    <state width="864" height="480" key="GridCell.Tab.1.center" timestamp="1602939527562">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="864" height="480" key="GridCell.Tab.1.center/0.23.2560.1057@0.23.2560.1057" timestamp="1602939527562" />
+    <state width="864" height="480" key="GridCell.Tab.1.left" timestamp="1602939527562">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="864" height="480" key="GridCell.Tab.1.left/0.23.2560.1057@0.23.2560.1057" timestamp="1602939527562" />
+    <state width="864" height="480" key="GridCell.Tab.1.right" timestamp="1602939527563">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="864" height="480" key="GridCell.Tab.1.right/0.23.2560.1057@0.23.2560.1057" timestamp="1602939527563" />
+    <state x="226" y="23" width="1037" height="785" key="dock-window-1" timestamp="1602893232070">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state x="226" y="23" width="1037" height="785" key="dock-window-1/0.23.2560.1057@0.23.2560.1057" timestamp="1602893232070" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/task1.py</url>
+          <line>88</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
